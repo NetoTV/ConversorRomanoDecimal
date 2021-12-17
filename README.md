@@ -24,9 +24,9 @@ Se trata de um conversor de Numeração Romana para Numeração Decimal.
 Atenção! É necessário que você tenha um compilador Javascript!
 
 1- Passando um valor para o conversor:
-> Passe um valor em Numeração Romana para a váriavel "valorRomano" em formato String
+> valorRomano = "(Valor em Numeração Romana)"
 
 2- Chame a função:
-> basta chamar a função retornarNumerico() e você irá receber o valor já transformado
+> retornarNumerico() -> Retorna o valor já convertido
 
 ---
