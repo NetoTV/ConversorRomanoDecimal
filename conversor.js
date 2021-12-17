@@ -1,4 +1,4 @@
-let valorRomano = "XM"
+let valorRomano = "XCVIII"
 
 const arrayRomano = valorRomano.split('');
 
@@ -37,9 +37,9 @@ function retornarNumerico() {
             valorAtual = valorAtual.reduce((total, numero) => {
                 return total + numero;
             })
-            console.log(valorAtual)
+            return (valorAtual);
         }
     }
 }
 
-retornarNumerico()
+console.log(retornarNumerico())
