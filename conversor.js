@@ -1,4 +1,4 @@
-let valorRomano = "XCVIII"
+let valorRomano = "CDL"
 
 const arrayRomano = valorRomano.split('');
 
